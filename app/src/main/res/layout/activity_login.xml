@@ -36,14 +36,6 @@
                 android:id="@+id/txt_password" android:hint="Password"
                 android:drawableLeft="@drawable/icons8_password" android:drawablePadding="10dp"
                 android:minHeight="48dp"/>
-        <EditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:inputType="textPassword"
-                android:ems="10"
-                android:id="@+id/txt_confirm" android:hint="Confirm Password"
-                android:drawableStart="@drawable/icons8_password" android:drawablePadding="10dp"
-                android:minHeight="48dp"/>
 
         <LinearLayout
                 android:orientation="horizontal"

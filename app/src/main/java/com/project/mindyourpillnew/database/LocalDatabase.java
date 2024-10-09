@@ -17,7 +17,7 @@ public class LocalDatabase {
     }
 
     public void initReminders() {
-        reminders.add(new Reminder("Paracetamol", "8:17", 8, 24, "After Meal"));
+        reminders.add(new Reminder("Paracetamol", "12:33", 8, 24, "After Meal"));
         reminders.add(new Reminder("Candesartan 16 mg", "21:00", 8, 12, "After Meal"));
         reminders.add(new Reminder("Amlodipine 10 mg", "12:00", 8, 12, "After Meal"));
     }
